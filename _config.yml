@@ -21,7 +21,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: mattiabl/
+  github: mattiabl
   instagram:
   linkedin:
   pinterest:
@@ -47,7 +47,7 @@ url: http://mattiabl.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "http://yourusername.github.io/mattiabl.github.io"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -55,7 +55,7 @@ baseurl: "http://yourusername.github.io/mattiabl.github.io"
 
 markdown: redcarpet
 highlighter: rouge
-permalink: /:A trip/
+permalink: /:title/
 
 # The release of Jekyll Now that you're using
 version: v1.1.0
@@ -67,7 +67,6 @@ sass:
 # Use the following plug-ins
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:
