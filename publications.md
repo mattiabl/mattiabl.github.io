@@ -31,7 +31,7 @@ Co-inventor of 5 patents (1 pending, 4 filed).
 4. ZANON M., Sparacino G., Facchinetti A., Talary M. S., Cobelli C. “Modelling of multisensor data for non-invasive continuous glucose monitoring”. 3rd Italian Bioengineering meeting, 2012, Rome, Italy.
 5. ZANON M., Riz M., Sparacino G., Facchinetti A., Suri R., Talary M, Cobelli C. “Assessment of linear regression techniques for modeling multisensor data for non-invasive continuous glucose monitoring”. 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011, Boston, MA, USA
 
-#### Conference Abstracts
+#### Conference Abstracts
 1. ZANON M., Susto G.A., Pampuri S., McLoone S. “Relevance vector machine classification for root cause analysis.” Intel Ireland Research Conference, IIRC, Dublin, Ireland, 2013
 2. Fabris C., Facchinetti A., ZANON M., Sparacino G., Maran A., Cobelli C. “Minimal set of glucose variability indices by sparse principal component analysis.” 13th Diabetes Technology Meeting (DTM) 2013, San Francisco, CA, USA
 3. ZANON M., Sparacino G., Facchinetti A., Talary M.S., Caduff A., Cobelli C. “Effects of sweat events on the calibration of a multisensor device for non-invasive continuous glucose monitoring.” 6th International conference on Advanced Technologies & Treatments for Diabetes ATTD, Paris, France, 2013.
