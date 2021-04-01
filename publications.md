@@ -4,9 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-last update: 01/2021
+last update: _04/2021_
 
 For a more up to date list of publications please have a look at my [Google Scholar page](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao).
+
+#### Petents
+Co-inventor of 5 patents (1 pending, 4 filed).
 
 ####  Peer-Reviewed Journal Articles
 1. ZANON M., Zambonin G., Susto G.A., McLoone S. Sparse Logistic Regression: Comparison of Regularization and Bayesian Implementations. Algorithms 2020, 13, 137.
