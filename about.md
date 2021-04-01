@@ -12,4 +12,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+If you want to get in touch please send me an email [zanon dot mattia at gmail dot com](mailto:zanon.mattia@gmail.com)
