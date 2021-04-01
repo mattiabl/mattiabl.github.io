@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-last update: _04/2021_
+last update: _April 2021_
 
 For a more up to date list of publications please have a look at my [Google Scholar page](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao).
 
