@@ -4,14 +4,14 @@ title: About
 permalink: /about/
 ---
 
-I am an engineer by training and a data/research scientist by profession, working for most of my career on digital health topics. I used, and contributed to build, several (medical grade) wearable sensors to study metabolic (diabetes), cardiovascular and neurodegenerative (Multiple Sclerosis) diseases. In a previous life, I have also spent some time working on virtual metrology applied to manufactoring processes.
+I am an engineer by training and a data/research scientist by profession, working for most of my career on digital health topics. I used, and contributed to build, several (medical grade) wearable sensors to study metabolic (diabetes), cardiovascular and neurodegenerative (Multiple Sclerosis) diseases. In a previous life, I have also spent some time working on virtual metrology applied to manufactoring processes and building electrical circuits for robotics and automation.
 
 #### Work Experience
 
 - Senior Data Scientist at [Roche](https://www.roche.com/about/priorities/personalised_healthcare/digital-biomarkers.htm)
 - Senior Data Scientist at [Biovotion (now part of Biofourmis)](https://www.biofourmis.com/)
 - Data scientist at [M31-WearIT](https://www.m31.com/en/portfolio/wearit/)
-- Post-Doc at the National University of Ireland, Maynooth
+- Post-Doc at the National University of Ireland, Maynooth with [Prof. McLoone](https://pure.qub.ac.uk/en/persons/se%C3%A1n-mcloone)
 
 
 #### Education
@@ -25,4 +25,4 @@ My full CV can be found [here]().
 
 #### Contact me
 
-If you want to get in touch please send me an email [zanon dot mattia at gmail dot com](mailto:zanon.mattia@gmail.com)
+If you want to get in touch please send me an [email](mailto:zanon.mattia@gmail.com).
