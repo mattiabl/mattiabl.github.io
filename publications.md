@@ -25,11 +25,12 @@ Co-inventor of 5 patents (1 pending, 4 filed).
 11.	ZANON M., Sparacino G., Facchinetti A., Riz M., Talary S.M., Suri E.R., Caduff A., Cobelli C. “Non-invasive continuous glucose monitoring: improved accuracy of point and trend estimates of the Multisensor system” Med Biol Eng Comput, 2012, 50(10):1047-1057. doi: 10.1007/s11517-012-0932-6
 
 #### Conference Proceedings
-1. Finotello F, Scarpa F, ZANON M. EEG signal features extraction based on fractal dimension. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:4154-7.
-2. Susto G.A., Wan J., Pampuri S., ZANON M., Johnston A., O'Hara P., McLoone S. "An Adaptive Machine Learning Decision System for Flexible Predictive Maintenance". 10th IEEE International Conference on Automation Science and Engineering, 2014, Taipei, Taiwan.
-3. ZANON M., Susto G.A., McLoone S. “Root cause analysis by a combined sparse classification and Monte Carlo approach”. 19th IFAC World Congress meeting, 2014, Cape Town, South Africa.
-4. ZANON M., Sparacino G., Facchinetti A., Talary M. S., Cobelli C. “Modelling of multisensor data for non-invasive continuous glucose monitoring”. 3rd Italian Bioengineering meeting, 2012, Rome, Italy.
-5. ZANON M., Riz M., Sparacino G., Facchinetti A., Suri R., Talary M, Cobelli C. “Assessment of linear regression techniques for modeling multisensor data for non-invasive continuous glucose monitoring”. 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011, Boston, MA, USA
+1. ZANON M, Kriara L, Lipsmeier F, Nobbs D, Chatham C, Hipp J, Lindemann M. A quality metric for heart rate variability from photoplethysmogram sensor data. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:706-709. doi: 10.1109/EMBC44109.2020.9175671.
+2. Finotello F, Scarpa F, ZANON M. EEG signal features extraction based on fractal dimension. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:4154-7.
+3. Susto G.A., Wan J., Pampuri S., ZANON M., Johnston A., O'Hara P., McLoone S. "An Adaptive Machine Learning Decision System for Flexible Predictive Maintenance". 10th IEEE International Conference on Automation Science and Engineering, 2014, Taipei, Taiwan.
+4. ZANON M., Susto G.A., McLoone S. “Root cause analysis by a combined sparse classification and Monte Carlo approach”. 19th IFAC World Congress meeting, 2014, Cape Town, South Africa.
+5. ZANON M., Sparacino G., Facchinetti A., Talary M. S., Cobelli C. “Modelling of multisensor data for non-invasive continuous glucose monitoring”. 3rd Italian Bioengineering meeting, 2012, Rome, Italy.
+6. ZANON M., Riz M., Sparacino G., Facchinetti A., Suri R., Talary M, Cobelli C. “Assessment of linear regression techniques for modeling multisensor data for non-invasive continuous glucose monitoring”. 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011, Boston, MA, USA
 
 #### Conference Abstracts
 1. ZANON M., Susto G.A., Pampuri S., McLoone S. “Relevance vector machine classification for root cause analysis.” Intel Ireland Research Conference, IIRC, Dublin, Ireland, 2013
