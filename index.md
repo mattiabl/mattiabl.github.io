@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 
 I am an engineer by training and a data/research scientist by profession working on digital health topics. I contributed to build some medical grade wearable sensors to study metabolic (diabetes), cardiovascular and neurodegenerative (Multiple Sclerosis) diseases. In a previous life I also worked on virtual metrology topics applied to manufactoring processes and I built electrical circuits for robotics and automation.
