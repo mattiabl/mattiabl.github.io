@@ -20,7 +20,7 @@ I am an engineer by training and a data/research scientist by profession working
 
 #### Full CV
 
-My full CV can be found [here]().
+My full CV can be found [here](Mattia_Zanon_CV_.pdf).
 
 #### Contact me
 
