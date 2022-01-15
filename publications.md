@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-last update: _April 2021_
+last update: _January 2022_
 
 For a more up to date list of publications please have a look at my [Google Scholar page](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao).
 
 #### Patents
-Co-inventor of 5 patents (1 pending, 4 filed).
+Co-inventor of 6 patents.
 
 ####  Peer-Reviewed Journal Articles
 1. ZANON M., Zambonin G., Susto G.A., McLoone S. Sparse Logistic Regression: Comparison of Regularization and Bayesian Implementations. Algorithms 2020, 13, 137.
@@ -25,22 +25,26 @@ Co-inventor of 5 patents (1 pending, 4 filed).
 11.	ZANON M., Sparacino G., Facchinetti A., Riz M., Talary S.M., Suri E.R., Caduff A., Cobelli C. “Non-invasive continuous glucose monitoring: improved accuracy of point and trend estimates of the Multisensor system” Med Biol Eng Comput, 2012, 50(10):1047-1057. doi: 10.1007/s11517-012-0932-6
 
 #### Conference Proceedings
-1. ZANON M, Kriara L, Lipsmeier F, Nobbs D, Chatham C, Hipp J, Lindemann M. A quality metric for heart rate variability from photoplethysmogram sensor data. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:706-709. doi: 10.1109/EMBC44109.2020.9175671.
-2. Finotello F, Scarpa F, ZANON M. EEG signal features extraction based on fractal dimension. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:4154-7.
-3. Susto G.A., Wan J., Pampuri S., ZANON M., Johnston A., O'Hara P., McLoone S. "An Adaptive Machine Learning Decision System for Flexible Predictive Maintenance". 10th IEEE International Conference on Automation Science and Engineering, 2014, Taipei, Taiwan.
-4. ZANON M., Susto G.A., McLoone S. “Root cause analysis by a combined sparse classification and Monte Carlo approach”. 19th IFAC World Congress meeting, 2014, Cape Town, South Africa.
-5. ZANON M., Sparacino G., Facchinetti A., Talary M. S., Cobelli C. “Modelling of multisensor data for non-invasive continuous glucose monitoring”. 3rd Italian Bioengineering meeting, 2012, Rome, Italy.
-6. ZANON M., Riz M., Sparacino G., Facchinetti A., Suri R., Talary M, Cobelli C. “Assessment of linear regression techniques for modeling multisensor data for non-invasive continuous glucose monitoring”. 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011, Boston, MA, USA
+1. Bogaarts G, ZANON M, Dondelinger F, Derungs A, Lipsmeier F, Gossens C, Lindemann M. Simulating the impact of noise on gait features extracted from smartphone sensor-data for the remote assessment of movement disorders. Annu Int Conf IEEE Eng Med Biol Soc. 2021 Nov;2021:6905-6910. doi: 10.1109/EMBC46164.2021.9630594. PMID: 34892692.
+2. ZANON M, Kriara L, Lipsmeier F, Nobbs D, Chatham C, Hipp J, Lindemann M. A quality metric for heart rate variability from photoplethysmogram sensor data. Annu Int Conf IEEE Eng Med Biol Soc. 2020 Jul;2020:706-709. doi: 10.1109/EMBC44109.2020.9175671.
+3. Finotello F, Scarpa F, ZANON M. EEG signal features extraction based on fractal dimension. Conf Proc IEEE Eng Med Biol Soc. 2015;2015:4154-7.
+4. Susto G.A., Wan J., Pampuri S., ZANON M., Johnston A., O'Hara P., McLoone S. "An Adaptive Machine Learning Decision System for Flexible Predictive Maintenance". 10th IEEE International Conference on Automation Science and Engineering, 2014, Taipei, Taiwan.
+5. ZANON M., Susto G.A., McLoone S. “Root cause analysis by a combined sparse classification and Monte Carlo approach”. 19th IFAC World Congress meeting, 2014, Cape Town, South Africa.
+6. ZANON M., Sparacino G., Facchinetti A., Talary M. S., Cobelli C. “Modelling of multisensor data for non-invasive continuous glucose monitoring”. 3rd Italian Bioengineering meeting, 2012, Rome, Italy.
+7. ZANON M., Riz M., Sparacino G., Facchinetti A., Suri R., Talary M, Cobelli C. “Assessment of linear regression techniques for modeling multisensor data for non-invasive continuous glucose monitoring”. 33rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society 2011, Boston, MA, USA
 
 #### Conference Abstracts
-1. ZANON M., Susto G.A., Pampuri S., McLoone S. “Relevance vector machine classification for root cause analysis.” Intel Ireland Research Conference, IIRC, Dublin, Ireland, 2013
-2. Fabris C., Facchinetti A., ZANON M., Sparacino G., Maran A., Cobelli C. “Minimal set of glucose variability indices by sparse principal component analysis.” 13th Diabetes Technology Meeting (DTM) 2013, San Francisco, CA, USA
-3. ZANON M., Sparacino G., Facchinetti A., Talary M.S., Caduff A., Cobelli C. “Effects of sweat events on the calibration of a multisensor device for non-invasive continuous glucose monitoring.” 6th International conference on Advanced Technologies & Treatments for Diabetes ATTD, Paris, France, 2013.
-4. ZANON M., Sparacino G., Facchinetti A., Talary M.S., Caduff A., Cobelli C. “Non-invasive continuous glucose monitoring by multisensor system: improved accuracy using an elastic-net regression.” 12th Diabetes Technology Meeting (DTM) 2012, Bethesda, MA, USA.
-5. ZANON M., Sparacino G., Facchinetti A., Talary S.M., Caduff A., Cobelli C. “Effect of calibration scheduling on the accuracy of multisensor device for non-invasive continuous glucose monitoring.” 5th International conference on Advanced Technologies and Treatments for Diabetes (ATTD) 2012, Barcelona, Spain.
-6. Guerra S. ZANON M., Maran A., Sparacino G., Cobelli C. “Parsimonious description of glucose variability investigated by a sparse PCA approach.” 11th Diabetes Technology Meeting (DTM) 2011, San Francisco, CA, USA.
-7. ZANON M., Riz M., Facchinetti A., Sparacino G., Cobelli C., Suri R., Mueller M., De Feo O., Caduff A., Talary M. “Assessment of linear techniques to model multisensor data for non-invasive continuous glucose monitoring.” 4th International conference on Advanced Technologies and Treatments for Diabetes (ATTD) 2011, London, UK.
-8. ZANON M., Facchinetti A., Sparacino G., Cobelli C., Suri R., De Feo O., Caduff A., Talary M. “Modeling of multisensor data for continuous blood glucose monitoring.” ISSPR 2010, Plymouth, UK.
+1. Festanti A., ZANON M., Dondelinger F., Lipsmeier F., Lindemann M. Assessing Accordance with Test Instructions for Reliable Data Collection in Remote Digital Health Studies. 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC 2021).
+2. Festanti A., ZANON M., Dondelinger F., Lipsmeier F., Denos X., Hubeaux S., McGinley M., Comi G., Craveiro L., Lindemann M., Butzkueven H.. The Importance of Quality Checks for Digital Health Studies Using Remote Unsupervised Assessments to Study Functional Impairment in MS. ECTRIMS 2021 – ePoster. Multiple Sclerosis Journal. 2021;27(2_suppl):134-740. doi:10.1177/13524585211044667
+3. Rukina D., Bogaarts G., Dondelinger F., Hubeaux S., Zanon M., Craveiro L., Model F., Cutter G., Comi G.. Novel Smartphone Sensor-Based Scores for Remote Measurement of Gait and Hand Function Impairment in People with MS. ECTRIMS 2021 – ePoster. Multiple Sclerosis Journal. 2021;27(2_suppl):134-740. doi:10.1177/13524585211044667
+4. ZANON M., Susto G.A., Pampuri S., McLoone S. “Relevance vector machine classification for root cause analysis.” Intel Ireland Research Conference, IIRC, Dublin, Ireland, 2013
+5. Fabris C., Facchinetti A., ZANON M., Sparacino G., Maran A., Cobelli C. “Minimal set of glucose variability indices by sparse principal component analysis.” 13th Diabetes Technology Meeting (DTM) 2013, San Francisco, CA, USA
+6. ZANON M., Sparacino G., Facchinetti A., Talary M.S., Caduff A., Cobelli C. “Effects of sweat events on the calibration of a multisensor device for non-invasive continuous glucose monitoring.” 6th International conference on Advanced Technologies & Treatments for Diabetes ATTD, Paris, France, 2013.
+7. ZANON M., Sparacino G., Facchinetti A., Talary M.S., Caduff A., Cobelli C. “Non-invasive continuous glucose monitoring by multisensor system: improved accuracy using an elastic-net regression.” 12th Diabetes Technology Meeting (DTM) 2012, Bethesda, MA, USA.
+8. ZANON M., Sparacino G., Facchinetti A., Talary S.M., Caduff A., Cobelli C. “Effect of calibration scheduling on the accuracy of multisensor device for non-invasive continuous glucose monitoring.” 5th International conference on Advanced Technologies and Treatments for Diabetes (ATTD) 2012, Barcelona, Spain.
+9. Guerra S. ZANON M., Maran A., Sparacino G., Cobelli C. “Parsimonious description of glucose variability investigated by a sparse PCA approach.” 11th Diabetes Technology Meeting (DTM) 2011, San Francisco, CA, USA.
+10. ZANON M., Riz M., Facchinetti A., Sparacino G., Cobelli C., Suri R., Mueller M., De Feo O., Caduff A., Talary M. “Assessment of linear techniques to model multisensor data for non-invasive continuous glucose monitoring.” 4th International conference on Advanced Technologies and Treatments for Diabetes (ATTD) 2011, London, UK.
+11. ZANON M., Facchinetti A., Sparacino G., Cobelli C., Suri R., De Feo O., Caduff A., Talary M. “Modeling of multisensor data for continuous blood glucose monitoring.” ISSPR 2010, Plymouth, UK.
 
 #### Technical Reports
 1. Finotello F., Scarpa F., ZANON M. In-vehicle drowsiness monitoring from single-channel EEG recording: a proof-of-concept study.
