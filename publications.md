@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-last update: _May 2024_
+last update: _Nov 2024_
 
 For a more up to date list of publications please have a look at my [Google Scholar page](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao).
 
 #### Patents
-Co-inventor of 10 [patents](https://patentscope.wipo.int/search/en/result.jsf?_vid=P22-M3EFVY-25981), pending and granted.
+Co-inventor of 10 patents.
 
 ####  Peer-Reviewed Journal Articles
 1. Kriara L, ZANON M, Lipsmeier F, Lindemann M. Physiological sensor data cleaning with autoencoders. Physiol Meas. 2023 Dec 15;44(12). doi: 10.1088/1361-6579/ad10c7. PMID: 38029439.
