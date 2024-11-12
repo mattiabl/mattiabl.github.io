@@ -10,7 +10,6 @@ description: Engineering, Machine Learning and Data Science for Digital Health.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: #https://github.com/mattiabl/mattiabl.github.io/blob/master/images/mza.jpg
-#https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -40,7 +39,7 @@ disqus:
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-LT96YX6YKD
 
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
+# Your website URL
 # Used for Sitemap.xml and your RSS feed
 url: https://mattiabl.github.io
 
