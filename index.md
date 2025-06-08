@@ -7,7 +7,7 @@ Hello, I am Mattia - I am an engineer by training and a data scientist by profes
 
 #### Professional Experience
 
-- Digital biomarker data scientist at [Roche, Roche Diagnostic Informatic solutions] (https://www.roche.com/media/releases/med-cor-2024-07-09)
+- Digital biomarker data scientist at [Roche, Roche Diagnostic Informatic solutions](https://www.roche.com/media/releases/med-cor-2024-07-09)
 - Principal Scientist at [Roche, pharma Research and Early Development, Patient Monitoring Value Stream](https://www.roche.com/about/priorities/personalised_healthcare/digital-biomarkers.htm)
 - Senior Scientist at [Roche, pharma Research and Early Development, Digital Biomarkers](https://www.roche.com/about/priorities/personalised_healthcare/digital-biomarkers.htm)
 - Senior Data Scientist at [Biovotion (now part of Biofourmis)](https://www.biofourmis.com/)
