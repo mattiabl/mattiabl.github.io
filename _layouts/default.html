@@ -1,6 +1,20 @@
 <!DOCTYPE html>
 <html>
   <head>
+    <meta name="description" content="Personal website of Mattia Zanon – Biomedical Engineer, data scientist.">
+
+    <link rel="icon" href="{{ '/favicon.png' | relative_url }}" type="image/png" />
+
+    <meta property="og:title" content="{{ page.title | default: 'Mattia Zanon – Engineer & Builder' }}">
+    <meta property="og:description" content="Code, algorithms, models, prototypes.">
+    <meta property="og:image" content="{{ '/preview.png' | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:type" content="website">
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Mattia Zanon – Engineer & Builder" />
+    <meta name="twitter:description" content="My thoughts." />
+    <meta name="twitter:image" content="{{ '/preview.png' | absolute_url }}" />
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
 
     {% include meta.html %}
