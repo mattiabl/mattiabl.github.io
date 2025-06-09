@@ -5,11 +5,11 @@ title: About Me
 
 Hello, I am Mattia - I am an engineer by training and a data scientist by profession working on digital health topics. 
 
-I am currently working on algorithms for building digital products leveraging data from the continuous glucose monitoring sensor developed by Roche. In the past, I contributed to build commercial wearables, [medical grade wearable solutions](https://pubmed.ncbi.nlm.nih.gov/34937478/) and [Software as a Medical Device (SaMD)](https://floodlightms-us.com/) to monitor metabolic (diabetes), cardiovascular and neurodegenerative (Multiple Sclerosis) diseases.
+I am currently working on algorithms for building digital products leveraging data from the continuous glucose monitoring sensor developed by Roche. In the past, I contributed to build commercial wearables, [medical grade wearable solutions](https://pubmed.ncbi.nlm.nih.gov/34937478/) and [Software as a Medical Device (SaMD)](https://medically.roche.com/global/en/neuroscience/ectrims-2024/medical-material/ECTRIMS-2024-poster-rodrigues-smartphone-based-assessment-of-gait-pdf.html) to monitor metabolic (diabetes), cardiovascular and neurodegenerative (Multiple Sclerosis) diseases.
 
 In a previous life I also worked on virtual metrology topics applied to manufactoring processes and I built electrical circuits for robotics and automation.
 
-In my spare time I like experimenting and building prototipes with the usual suspects (copilot, Claude and chatGPT).
+In my spare time I like experimenting and building prototipes with the usual suspects (copilot, Claude and chatGPT). I am also interested in value investing.
 
 #### Professional Experience
 
