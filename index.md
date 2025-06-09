@@ -9,7 +9,7 @@ I am currently working on algorithms for building digital products leveraging da
 
 In a previous life I also worked on virtual metrology topics applied to manufactoring processes and I built electrical circuits for robotics and automation.
 
-In my spare time I like experimenting and building prototipes with the usual suspects (copilot, cursor/claude and chatGPT).
+In my spare time I like experimenting and building prototipes with the usual suspects (copilot, Claude and chatGPT).
 
 #### Professional Experience
 
