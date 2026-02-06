@@ -4,12 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
-last update: _Nov 2024_
+last update: _Feb 2026_
 
 For a more up to date list of publications please have a look at my [Google Scholar page](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao).
 
 #### Patents
-Co-inventor of [10 patents] (https://patentscope.wipo.int/search/en/result.jsf?_vid=P22-MLB4E2-26755) .
+Co-inventor of [10 patents](https://patentscope.wipo.int/search/en/result.jsf?_vid=P22-MLB4E2-26755) .
 
 ####  Journal Articles
 
