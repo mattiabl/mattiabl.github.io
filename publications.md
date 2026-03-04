@@ -9,11 +9,11 @@ last update: _Feb 2026_
 For a more up to date list of publications please have a look at my [Google Scholar page](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao).
 
 #### Patents
-Co-inventor of [10 patents](https://patentscope.wipo.int/search/en/result.jsf?_vid=P22-MLB4E2-26755) .
+Co-inventor of 10 patents.
 
 ####  Journal Articles
 
-1. Simpson, O.F., Stanev, D., Pitt-Francis, J., ZANON, M., Rinderknecht, M.D. and Zavatsky, A.B., 2025. Standing margin of stability as a measure of balance for people with multiple sclerosis. Clinical Biomechanics, p.106696.
+1. Simpson OF, Stanev D, Pitt-Francis J, ZANON M, Rinderknecht MD, Zavatsky AB. Standing margin of stability as a measure of balance for people with multiple sclerosis. Clin Biomech (Bristol). 2026 Jan;131:106696. doi: 10.1016/j.clinbiomech.2025.106696. Epub 2025 Nov 7. PMID: 41223651.
 2. Płonka, M., Klimas, R., Stanev, D., Angelini, L., Napiórkowski, N., Chan, G.G., Bunn, L., Glazier, P.S., Hosking, R., Freeman, J. and Hobart, J., ZANON M., Marsden J., Craveiro L., Rinderknecht M. 2025. Analytical and Cross-Sectional Clinical Validity of a Smartphone-Based U-Turn Test in Multiple Sclerosis. arXiv preprint arXiv:2512.04914.
 3. Angelini, L., Stanev, D., Płonka, M., Klimas, R., Napiórkowski, N., Chan, G.G., Bunn, L., Glazier, P.S., Hosking, R., Freeman, J., Hobart, J., Marsden J., Craveiro L., Rinderknecht M., ZANON M. 2025. Adaptive and robust smartphone-based step detection in multiple sclerosis. arXiv preprint arXiv:2509.13961.
 4. Russo, S., Klimas, R., Płonka, M., Gall, H.L., Holm, S., Stanev, D., Lipsmeier, F., ZANON, M. and Kriara, L., 2025. Human Activity Recognition from Smartphone Sensor Data for Clinical Trials. arXiv preprint arXiv:2508.05175.
