@@ -3,33 +3,90 @@ layout: default
 title: About Me
 ---
 
-Hello, I am Mattia - I am an engineer by training and a data scientist by profession working on digital health topics. 
+Hello, I am Mattia.
 
-I am currently working on algorithms for building digital products leveraging data from the continuous glucose monitoring sensor developed by Roche. In the past, I contributed to build commercial wearables, [medical grade wearable solutions](https://pubmed.ncbi.nlm.nih.gov/34937478/) and [Software as a Medical Device (SaMD)](https://medically.roche.com/global/en/neuroscience/ectrims-2024/medical-material/ECTRIMS-2024-poster-rodrigues-smartphone-based-assessment-of-gait-pdf.html) to monitor metabolic (diabetes), cardiovascular and neurodegenerative (Multiple Sclerosis) diseases.
+I am a data scientist and engineer specializing in **medical-grade algorithms, digital biomarkers, and regulatory-grade data systems** for digital health.
 
-In a previous life I also worked on virtual metrology topics applied to manufactoring processes and I built electrical circuits for robotics and automation.
+I work at the intersection of **signal processing, machine learning, and SaMD validation**, with a focus on turning complex physiological data into **robust, deployable, and regulator-ready products (SaMD)**.
 
-In my spare time I like experimenting and building prototipes with the usual suspects (copilot, Claude and chatGPT). I am also interested in value investing.
+I am co-inventor of 10 patents and author of 40+ peer-reviewed publications in digital health and medical-grade algorithms.
 
-#### Professional Experience
+---
 
-- Digital biomarker data scientist at [Roche, Roche Diagnostic Informatic Solutions (RIS)](https://www.roche.com/media/releases/med-cor-2024-07-09)
-- Principal Scientist at [Roche, pharma Research and Early Development, Patient Monitoring Value Stream](https://www.roche.com/about/priorities/personalised_healthcare/digital-biomarkers.htm)
-- Senior Scientist at [Roche, pharma Research and Early Development, Digital Biomarkers](https://www.roche.com/about/priorities/personalised_healthcare/digital-biomarkers.htm)
-- Senior Data Scientist at [Biovotion (now part of Biofourmis)](https://www.biofourmis.com/)
-- Data scientist at [M31, WearIT](https://www.m31.com/)
-- Post-Doc at the National University of Ireland, Maynooth with [Prof. McLoone](https://pure.qub.ac.uk/en/persons/se%C3%A1n-mcloone)
+### What I Do
 
+- Develop **multi-sensor algorithms** for continuous monitoring
+    - Non-invasive, minimally invasive and non-invasive continuous glucose monitoring
+    - Cardiovascular monitoring from PPG data - Heart rate, Blood oxygenation, Respiratory Rate, etc.
+    - Activity monitoring - IMU and GPS based activity classification, gait analysis
+    - Smartphone touch events algorithms for characterizing cognition and upper limbs functions
+- Build **end-to-end data pipelines** from device to submission-ready outputs
+- Design systems aligned with **FDA and MDR requirements**, ensuring reproducibility, traceability, and data integrity
+- Translate **pathophysiological processes into measurable digital biomarkers**
+- Modelling and simulation of physiological processes for in-silico pre-clinical evidence generation
+- PKPD modelling and simulation for drug development and digital health products
+- Technical, analytical and clinical validation of digital health products, including conceptualization and contribution to clinical trials design and execution
 
-#### Education
-- PhD in Information Technology, Thesis: _“Non-invasive continuous glucose monitoring: Identification of models for multi-sensor systems”_ ([link](http://paduaresearch.cab.unipd.it/5684/)) - University of Padova
-- MSc in Bioengineering - University of Padova
-- BSc in Biomedical Engineering - University of Padova
+---
 
-#### Full CV
+### Selected Experience
 
-My full CV can be found [here](/Mattia_Zanon_CV_.pdf).
+I am currently working on digital twins for digital health products leveraging **continuous glucose monitoring (CGM)** data at Roche.
 
-#### Contact me
+Previously, I contributed to:
+- Medical-grade wearable systems and digital biomarkers
+- Software as a Medical Device (SaMD) for metabolic, cardiovascular, and neurodegenerative diseases (e.g. Multiple Sclerosis)
+- Smartphone-based and wearable-based monitoring solutions
 
-If you want to get in touch please send me an [email](mailto:zanon.mattia@gmail.com).
+Earlier in my career, I worked on **virtual metrology in manufacturing** and built **electronic systems for robotics and automation**.
+
+---
+
+### Leadership
+
+- Hiring, mentoring, and growing interdisciplinary teams across data science, engineering, and biomedical research
+- Leading projects from early research to production-grade systems
+
+---
+
+### Domains
+
+- Diabetes  
+- Cardiometabolic and obesity  
+- Multiple Sclerosis and neurodegenerative diseases  
+- Sleep
+
+---
+
+### Professional Experience
+
+- Digital Biomarker Data Scientist — Roche, Diagnostic Information Solutions (RIS)  
+- Principal Scientist — Roche Pharma Research & Early Development (pRED), Patient Monitoring  
+- Senior Scientist — Roche pRED, Digital Biomarkers  
+- Senior Data Scientist — Biovotion (now Biofourmis)  
+- Data Scientist — M31, WearIT  
+- Postdoctoral Researcher — National University of Ireland, Maynooth  
+
+---
+
+### Education
+
+- PhD in Information Technology — University of Padova  
+    _“Non-invasive continuous glucose monitoring: Identification of models for multi-sensor systems”_ ([link](http://paduaresearch.cab.unipd.it/5684/))
+- MSc in Bioengineering — University of Padova  
+- BSc in Biomedical Engineering — University of Padova  
+
+---
+
+### Links
+
+- Full CV: [/Mattia_Zanon_CV_.pdf](/Mattia_Zanon_CV_.pdf)  
+- Google Scholar: [Add link]
+
+---
+
+### Contact
+
+If you want to reach out:
+
+📩 zanon.mattia@gmail.com
