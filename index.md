@@ -5,7 +5,7 @@ title: About Me
 
 Hello, I am Mattia.
 
-I am a data scientist and engineer specializing in **medical-grade algorithms, digital biomarkers, and regulatory-grade data systems** for digital health.
+I am a data scientist and engineer specializing in medical-grade algorithms, digital biomarkers, and regulatory-grade data systems for digital health.
 
 I work at the intersection of **signal processing, machine learning, and SaMD validation**, with a focus on turning complex physiological data into **robust, deployable, and regulator-ready products (SaMD)**.
 
