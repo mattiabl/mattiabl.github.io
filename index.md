@@ -38,7 +38,7 @@ Previously, I contributed to:
 - Software as a Medical Device (SaMD) for metabolic, cardiovascular, and neurodegenerative diseases (e.g. Multiple Sclerosis)
 - Smartphone-based and wearable-based monitoring solutions
 
-Earlier in my career, I worked on **virtual metrology in manufacturing** and built **electronic systems for robotics and automation**.
+Earlier in my career, I worked on virtual metrology in manufacturing and built electronic systems for robotics and automation.
 
 ---
 
@@ -81,7 +81,7 @@ Earlier in my career, I worked on **virtual metrology in manufacturing** and bui
 ### Links
 
 - Full CV: [/Mattia_Zanon_CV_.pdf](/Mattia_Zanon_CV_.pdf)  
-- Google Scholar: [Add link]
+- Google Scholar: [link](https://scholar.google.com/citations?user=kCk8IzcAAAAJ&hl=en&oi=ao)
 
 ---
 
